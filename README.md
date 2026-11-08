@@ -7,3 +7,4 @@ this will be an on going project. for the completion of a Cheat GUI for the Zeld
 
 
 
+support cow in this creation by give $$ to https://www.paypal.com/paypalme/cowslink
