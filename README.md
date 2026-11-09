@@ -2,8 +2,8 @@
 # Zelda-OOT-Remake-Switch-2---Cheat-GUI
 this will be an on going project. for the completion of a Cheat GUI for the Zelda OOT Remake - Switch 2
 user exp may vary, u may use the build i add to https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/releases
-
 give feedback at https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/issues
+support cow in this creation by give $$ to https://www.paypal.com/paypalme/cowslink
 
 ## ▶️ Watch the Cheat GUI in Action
 
