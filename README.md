@@ -5,11 +5,11 @@ user exp may vary, u may use the build i add to https://github.com/invalid8080-d
 
 give feedback at https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/issues
 
-### ▶️ Watch the Cheat GUI in Action
+## ▶️ Watch the Cheat GUI in Action
 
-[![Zelda OOT Remake Cheat GUI — Watch on YouTube](Zelda_OOT_Remake_Thumbnail.png)](https://www.youtube.com/watch?v=fIefNvvn93o)
+[![Zelda OOT Remake Cheat GUI — Watch on YouTube](./Zelda_OOT_Remake_Thumbnail.png)](https://www.youtube.com/watch?v=fIefNvvn93o)
 
-**[▶ Watch the full showcase on YouTube](https://www.youtube.com/watch?v=fIefNvvn93o)**
+**[▶️ Watch the full showcase on YouTube](https://www.youtube.com/watch?v=fIefNvvn93o)**
 
 <img width="3395" height="1320" alt="Taskmgr_BuvsCq7YfS" src="https://github.com/user-attachments/assets/03ee3312-8b3d-4093-a9e0-ce2826f53d78" />
 
