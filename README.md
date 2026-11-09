@@ -7,7 +7,9 @@ u may use the builds i add to https://github.com/invalid8080-dotcom/Zelda-OOT-Re
 
 give feedback at https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/issues
 
-NOTICE!! this project costs me time and time is money is could be making elswhere
+NOTICE!! this project costs me time,
+and time is money that i could be making elsewhere...
+
 support cow in this creation at https://www.paypal.com/paypalme/cowslink
 
 ## ▶️ Watch the Cheat GUI in Action
