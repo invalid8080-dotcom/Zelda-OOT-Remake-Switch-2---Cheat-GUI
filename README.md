@@ -2,9 +2,11 @@
 # Zelda-OOT-Remake-Switch-2---Cheat-GUI
 this will be an on going project. for the completion of a Cheat GUI for the Zelda OOT Remake - Switch 2
 user exp may vary. 
+
 grab up some amiibos if you don't have any already https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---compatable-amiibos
 
 u may use the builds i add to https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/releases
+
 give feedback at https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/issues
 
 NOTICE!! this project costs me time,
