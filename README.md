@@ -8,6 +8,8 @@ u may use the builds i add to https://github.com/invalid8080-dotcom/Zelda-OOT-Re
 
 give feedback at https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/issues
 
+here are my shaders so far https://github.com/invalid8080-dotcom/zelda-OOT-Remake-switch-2-shader-dump/releases
+
 NOTICE!! this project costs me time,
 and time is money that i could be making elsewhere...
 
