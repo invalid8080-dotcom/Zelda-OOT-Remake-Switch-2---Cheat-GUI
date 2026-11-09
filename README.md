@@ -7,7 +7,7 @@ give feedback at https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2
 
 ## ▶️ Watch the Cheat GUI in Action
 
-[![Zelda OOT Remake Cheat GUI — Watch on YouTube](./Zelda_OOT_Remake_Thumbnail.png)](https://www.youtube.com/watch?v=fIefNvvn93o)
+[![Zelda OOT Remake Cheat GUI — Watch on YouTube](./Zelda%20Cheat%20GUI%20Thumbnail.png)](https://www.youtube.com/watch?v=fIefNvvn93o)
 
 **[▶️ Watch the full showcase on YouTube](https://www.youtube.com/watch?v=fIefNvvn93o)**
 
