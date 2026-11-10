@@ -15,11 +15,13 @@ and time is money that i could be making elsewhere...
 
 support cow in this creation at https://www.paypal.com/paypalme/cowslink
 
-## ▶️ Watch the Cheat GUI in Action
+## ▶️ Zelda OOT Remake Cheat GUI — Setup Guide
 
-[![Zelda OOT Remake Cheat GUI — Watch on YouTube](./Zelda%20Cheat%20GUI%20Thumbnail.png)](https://www.youtube.com/watch?v=fIefNvvn93o)
+Learn how to configure the Cheat GUI, connect your Switch 2 emulator, and explore the available features.
 
-**[▶️ Watch the full showcase on YouTube](https://www.youtube.com/watch?v=fIefNvvn93o)**
+[![Zelda OOT Remake Cheat GUI Setup Guide](./Zelda%20OOT%20Remake%20Cheat%20GUI%20Setup%20Guide.png)](https://www.youtube.com/watch?v=C2uwC_qE1tw)
+
+**[▶️ Watch the Full Setup Guide on YouTube](https://www.youtube.com/watch?v=C2uwC_qE1tw)**
 
 snapshot of the GUI BELOW 
 
