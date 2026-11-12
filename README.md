@@ -1,38 +1,56 @@
+# Zelda OOT Remake Switch 2 — Cheat GUI
 
-# Zelda-OOT-Remake-Switch-2---Cheat-GUI
-this will be an on going project. for the completion of a Cheat GUI for the Zelda OOT Remake - Switch 2
-user exp may vary. 
+An ongoing project to develop a user-friendly Cheat GUI for Zelda OOT Remake on Switch 2 emulators.
 
+The project is actively being updated with new features, bug fixes, and emulator compatibility improvements. User experience may vary depending on the emulator and game version.
 
-u may use the builds i add to https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/releases
+## Downloads & Resources
 
-give feedback at https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/issues
+- **[Download the Latest Release](https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/releases)**
+- **[Report Bugs & Request Features](https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/issues)**
+- **[Shader Dump Releases](https://github.com/invalid8080-dotcom/zelda-OOT-Remake-switch-2-shader-dump/releases)**
+- **[Compatible Amiibos](https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---compatable-amiibos)**
 
-here are my shaders so far https://github.com/invalid8080-dotcom/zelda-OOT-Remake-switch-2-shader-dump/releases
+## ▶️ Setup Guide — v1.1.5
 
-NOTICE!! this project costs me time,
-and time is money that i could be making elsewhere...
+The updated tutorial covers the new emulator profile system, automatic emulator detection, and setting up the Cheat GUI for the first time.
 
-support cow in this creation at https://www.paypal.com/paypalme/cowslink
+**What's new in v1.1.5:**
+- Automatic emulator profile population for easier setup.
+- Detect and select installed emulator forks.
+- One-click emulator relaunch with cheats connected.
+- Automatic emulator shutdown and restart.
+- Per-emulator settings and configuration management.
+- Existing settings automatically migrated into emulator profiles.
 
-## ▶️ Zelda OOT Remake Cheat GUI — Setup Guide
+**Important:** Pressing **Launch Zelda** will close and relaunch an emulator that's already running. Save your game first to avoid losing unsaved progress.
 
-Learn how to configure the Cheat GUI, connect your Switch 2 emulator, and explore the available features.
+[![Zelda OOT Remake Cheat GUI v1.1.5 Setup Guide](https://img.youtube.com/vi/42SasTDRDyU/maxresdefault.jpg)](https://www.youtube.com/watch?v=42SasTDRDyU)
 
-[![Zelda OOT Remake Cheat GUI Setup Guide](./Zelda%20OOT%20Remake%20Cheat%20GUI%20Setup%20Guide.png)](https://www.youtube.com/watch?v=C2uwC_qE1tw)
+**[▶ Watch the v1.1.5 Setup Guide on YouTube](https://www.youtube.com/watch?v=42SasTDRDyU)**
 
-**[▶️ Watch the Full Setup Guide on YouTube](https://www.youtube.com/watch?v=C2uwC_qE1tw)**
+## GUI Screenshots
 
-snapshot of the GUI BELOW 
+A look at the Cheat GUI and its available features.
 
-<img width="3395" height="1320" alt="Taskmgr_BuvsCq7YfS" src="https://github.com/user-attachments/assets/03ee3312-8b3d-4093-a9e0-ce2826f53d78" />
+<img width="3395" height="1320" alt="Cheat GUI overview" src="https://github.com/user-attachments/assets/03ee3312-8b3d-4093-a9e0-ce2826f53d78" />
 
-<img width="1961" height="955" alt="Zelda_OOT_Remake_Cheat_GUI_cjn0cIjW8x" src="https://github.com/user-attachments/assets/06444ac3-40e6-4d87-b217-60a4366bbd4e" />
+<img width="1961" height="955" alt="Zelda OOT Remake Cheat GUI" src="https://github.com/user-attachments/assets/06444ac3-40e6-4d87-b217-60a4366bbd4e" />
 
-<img width="1961" height="1256" alt="Zelda_OOT_Remake_Cheat_GUI_mzp8hrHxqe" src="https://github.com/user-attachments/assets/c6697062-6cf6-44b9-b9f0-d827ba171667" />
+<img width="1961" height="1256" alt="Cheat GUI features" src="https://github.com/user-attachments/assets/c6697062-6cf6-44b9-b9f0-d827ba171667" />
 
-<img width="1961" height="1256" alt="Zelda_OOT_Remake_Cheat_GUI_nHRZpEM9Yb" src="https://github.com/user-attachments/assets/54000cbd-18b6-4f2b-8271-e1b87f07a55b" />
+<img width="1961" height="1256" alt="Cheat GUI inventory and controls" src="https://github.com/user-attachments/assets/54000cbd-18b6-4f2b-8271-e1b87f07a55b" />
 
-<img width="1961" height="1256" alt="Zelda_OOT_Remake_Cheat_GUI_7rV58C50Vg" src="https://github.com/user-attachments/assets/fc61f586-1605-463d-86dc-c8b9faeacc9a" />
+<img width="1961" height="1256" alt="Cheat GUI additional features" src="https://github.com/user-attachments/assets/fc61f586-1605-463d-86dc-c8b9faeacc9a" />
 
-grab up some amiibos if you don't have any already https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---compatable-amiibos
+## Support the Project
+
+This project takes time to develop, research, test, and maintain. That's time I could be spending earning money elsewhere.
+
+If you find the Cheat GUI useful and want to support its continued development, you can help out here:
+
+**[Support Cow on PayPal](https://www.paypal.com/paypalme/cowslink)**
+
+Thanks to everyone using the GUI, reporting bugs, and helping improve the project.
+
+— **a_cow_says**
