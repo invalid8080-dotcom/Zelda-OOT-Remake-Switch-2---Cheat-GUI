@@ -33,15 +33,13 @@ The updated tutorial covers the new emulator profile system, automatic emulator 
 
 A look at the Cheat GUI and its available features.
 
-<img width="3395" height="1320" alt="Cheat GUI overview" src="https://github.com/user-attachments/assets/03ee3312-8b3d-4093-a9e0-ce2826f53d78" />
+<img width="100%" alt="Zelda OOT Remake Cheat GUI Screenshot 1" src="https://raw.githubusercontent.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/main/Zelda_OOT_Remake_Cheat_GUI_uH8eGRnyOJ.png" />
 
-<img width="1961" height="955" alt="Zelda OOT Remake Cheat GUI" src="https://github.com/user-attachments/assets/06444ac3-40e6-4d87-b217-60a4366bbd4e" />
+<img width="100%" alt="Zelda OOT Remake Cheat GUI Screenshot 2" src="https://raw.githubusercontent.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/main/Zelda_OOT_Remake_Cheat_GUI_kE1XZqrX4v.png" />
 
-<img width="1961" height="1256" alt="Cheat GUI features" src="https://github.com/user-attachments/assets/c6697062-6cf6-44b9-b9f0-d827ba171667" />
+<img width="100%" alt="Zelda OOT Remake Cheat GUI Screenshot 3" src="https://raw.githubusercontent.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/main/Zelda_OOT_Remake_Cheat_GUI_UECSxzvJ5k.png" />
 
-<img width="1961" height="1256" alt="Cheat GUI inventory and controls" src="https://github.com/user-attachments/assets/54000cbd-18b6-4f2b-8271-e1b87f07a55b" />
-
-<img width="1961" height="1256" alt="Cheat GUI additional features" src="https://github.com/user-attachments/assets/fc61f586-1605-463d-86dc-c8b9faeacc9a" />
+<img width="100%" alt="Zelda OOT Remake Cheat GUI Screenshot 4" src="https://raw.githubusercontent.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---Cheat-GUI/main/Zelda_OOT_Remake_Cheat_GUI_WWpOLxQlOt.png" />
 
 ## Support the Project
 
