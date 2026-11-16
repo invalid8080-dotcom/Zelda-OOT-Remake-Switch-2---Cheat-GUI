@@ -25,9 +25,9 @@ The updated tutorial covers the new emulator profile system, automatic emulator 
 
 **Important:** Pressing **Launch Zelda** will close and relaunch an emulator that's already running. Save your game first to avoid losing unsaved progress.
 
-[![Zelda OOT Remake Cheat GUI v1.1.5 Setup Guide](https://img.youtube.com/vi/42SasTDRDyU/maxresdefault.jpg)](https://www.youtube.com/watch?v=42SasTDRDyU)
+[![Zelda OOT Remake Cheat GUI v1.1.8 Video](https://img.youtube.com/vi/P8tHbSBSIA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=P8tHbSBSIA8)
 
-**[▶ Watch the v1.1.5 Setup Guide on YouTube](https://www.youtube.com/watch?v=42SasTDRDyU)**
+**[▶ Watch the v1.1.8 Video on YouTube](https://www.youtube.com/watch?v=P8tHbSBSIA8)**
 
 ## GUI Screenshots
 
