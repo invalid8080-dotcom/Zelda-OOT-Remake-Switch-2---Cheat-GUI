@@ -11,11 +11,11 @@ The project is actively being updated with new features, bug fixes, and emulator
 - **[Shader Dump Releases](https://github.com/invalid8080-dotcom/zelda-OOT-Remake-switch-2-shader-dump/releases)**
 - **[Compatible Amiibos](https://github.com/invalid8080-dotcom/Zelda-OOT-Remake-Switch-2---compatable-amiibos)**
 
-## ▶️ Setup Guide — v1.1.5
+## ▶️ Setup Guide — v1.1.8
 
 The updated tutorial covers the new emulator profile system, automatic emulator detection, and setting up the Cheat GUI for the first time.
 
-**What's new in v1.1.5:**
+**What's new in v1.1.8:**
 - Automatic emulator profile population for easier setup.
 - Detect and select installed emulator forks.
 - One-click emulator relaunch with cheats connected.
