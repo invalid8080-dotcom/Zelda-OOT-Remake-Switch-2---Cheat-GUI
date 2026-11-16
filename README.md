@@ -51,4 +51,21 @@ If you find the Cheat GUI useful and want to support its continued development, 
 
 Thanks to everyone using the GUI, reporting bugs, and helping improve the project.
 
+## Legal Disclaimer
+
+**Zelda OOT Remake Cheat GUI** is an independently developed, unofficial third-party utility created by **a_cow_says**.
+
+This project is not affiliated with, endorsed by, sponsored by, or associated with Nintendo.
+
+- This software does not include or distribute copyrighted game files, ROMs, firmware, emulators, or Amiibo dumps.
+- Users must obtain their own game and compatible emulator separately.
+- The GUI performs temporary runtime memory modifications for gameplay customization, debugging, and experimentation.
+- The software does not intentionally make permanent modifications to original game installations.
+- All Nintendo-related names and trademarks remain the property of their respective owners.
+- Users are responsible for complying with applicable laws and software licensing terms.
+
+**Use at your own risk.** Runtime memory modification may cause crashes, unexpected behavior, or loss of unsaved progress.
+
+This software is provided without warranty, to the extent permitted by applicable law.
+
 — **a_cow_says**
